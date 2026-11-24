@@ -1,8 +1,6 @@
 # AudioGuard — Audio Splicing Detection & Forensic Localization
 
-**Author and developer: Anu Priya**  
-**Institution:** Indian Institute of Information Technology Kottayam (IIIT Kottayam)  
-**Project:** Multimedia Forensics Lab — Mini Project  
+**Author and developer: Anu Priya**   
 **Implementation:** Python · Librosa · NumPy · SciPy · Gradio · Plotly
 
 AudioGuard is an audio-forensics prototype that analyzes an audio recording for abrupt changes in acoustic characteristics that may indicate an inserted or moved audio segment. It estimates the timestamps of suspicious edit boundaries and presents supporting visual evidence so that an examiner can review the recording.
@@ -241,10 +239,5 @@ Do not publish private, confidential or personally identifying recordings in a p
 
 **Anu Priya**  
 B.Tech, Computer Science and Engineering  
-Indian Institute of Information Technology Kottayam  
 
 This repository presents the project implementation and documentation under my authorship. The project is shared for educational and research demonstration purposes.
-
----
-
-*If you use AudioGuard, please cite the repository and clearly distinguish candidate detections from verified evidence of manipulation.*
