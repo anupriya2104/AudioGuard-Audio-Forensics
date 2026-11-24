@@ -1,5 +1,4 @@
 """AudioGuard - Audio Splicing Forensic Analyzer (Hugging Face Space).
-Multimedia Forensics Lab course mini project, IIIT Kottayam."""
 import os, glob, time, warnings
 import numpy as np
 import pandas as pd
