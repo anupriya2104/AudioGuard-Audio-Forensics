@@ -1,0 +1,6 @@
+librosa
+soundfile
+scipy
+numpy
+pandas
+plotly
